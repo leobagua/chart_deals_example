@@ -30,6 +30,12 @@ group :development, :test do
 
   # RSpec for Rails 5+ http://relishapp.com/rspec/rspec-rails
   gem 'rspec-rails', '~> 4.0'
+
+  # A runtime developer console and IRB alternative with powerful introspection capabilities.
+  gem 'pry'
+
+  # Pretty print your Ruby objects with style -- in full color and with proper indentation
+  gem 'awesome_print'
 end
 
 group :development do
