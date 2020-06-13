@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## This is a basic Rails setup + Webpacker + React Rails.
+To keep it simple, i built an monolith setup running react within the rails app
 
-Things you may want to cover:
+```bash
+Ruby: 2.6.3
+Rails: 5.2.4.3
+```
 
-* Ruby version
+### Sart this example on `localhost:300` just run:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+rails s
+```  
